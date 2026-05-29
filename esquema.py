@@ -949,7 +949,7 @@ elif opcion == "TDSP":
         st.subheader("Matriz de Confusión")
         st.write(confusion_matrix(y_test, pred))
 
-        st.success("Proyecto SEMMA ejecutado correctamente.")   
+        st.success("Proyecto TDSP ejecutado correctamente.")   
 
 
             # AQUÍ COMPLETAR
